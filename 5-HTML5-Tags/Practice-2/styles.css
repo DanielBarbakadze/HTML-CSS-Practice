@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(143, 143, 143);
+    color: white;
+    text-align: center;
+}
+a {
+    color: rgb(175, 190, 255);
+}
+a:hover {
+    color: rgb(41, 50, 88);
+    font-size: 110%;
+    letter-spacing: 3px;
+}
