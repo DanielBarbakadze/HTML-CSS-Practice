@@ -1,0 +1,21 @@
+.poster {
+    display: inline-block;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    width: 250px;
+    box-sizing: content-box;
+}
+
+#name {
+    margin: 0px;
+    padding: 15px;
+    padding-bottom: 0px;
+    font-weight: bold;
+}
+
+p > a {
+    padding: 15px;
+    opacity: 0.5;
+    color: grey;
+    text-decoration: none;
+}
