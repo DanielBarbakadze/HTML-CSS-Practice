@@ -27,3 +27,12 @@ button {
     border-color: lightgray;
     color: red;
 }
+.small {
+    height: 20px;
+    width: 45px;
+    font-size: 7px;
+}
+.large {
+    height: 40px;
+    width: 90px;
+}
