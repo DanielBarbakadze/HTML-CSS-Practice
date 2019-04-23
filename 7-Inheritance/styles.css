@@ -1,0 +1,29 @@
+button {
+    border-radius: 7px;
+    border-color: transparent;
+    text-align: center;
+    height: 40px;
+    width: 90px;
+    font-size: 15px;
+    font-weight: bold;
+}
+#pr {
+    background-color: #3575ff;
+    color: white;
+}
+#df {
+    background-color: transparent;
+    border-color: lightgray;
+    color: gray;
+}
+#ds {
+    background-color: transparent;
+    border-color: lightgray;
+    border-style: dashed;
+    color: gray;
+}
+#dg {
+    background-color: rgba(211, 211, 211, 0.199);
+    border-color: lightgray;
+    color: red;
+}
